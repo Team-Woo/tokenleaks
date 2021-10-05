@@ -1,27 +1,4 @@
 # tokenleaks
 If you got a notification your token was leaked I uploaded it to reset it. This is to keep you, and your bot safe from attacks token leaks give any user complete access to your bot. Please take care to not post your token on fourms, in code or on discord(or having open eval commands). Keep it secret, keep it safe.
 
-NzUwMzg0MDMxMDkwMzQzOTk3.YNnXkQ.h3NoH-yRDG6W194iVWH4JFNAzTE
-NTAwODkwOTQxOTkzOTEwMjgy.XxkxUA.PDA4hS9k5-sKkJSJE7SWL-c4Me0
-NzYxNTAxNzMyNzEzOTIyNjIw.X3biKQ.Z0mMVzZndoHePUoP45vNl2yxW8
-ODY2NjkxNTI4NDk1MzMzNDQ2.YPXhQA.Mcvxyxcj-ZXaGn8FQjfUWpV_3s
-NDM2NjEzMzM5MzYwMDAyMDQ4.YIbU-A.oQJGK0CVLrOQoVgpw--9vVtSbPE
-NzExMDAwODY1NjExMTg2MTk2.YMPqIA.QkeDr6zUGbgEA5aHMkQM2EojjJI
-NjU3NzAwNjU1NjAzMTIyMTk2.YO38rQ.MkB_BEFemFKkAwHfbS3CZbXmqnU
-NzY1OTYwOTAxNDIwNTE1MzM4.YNeUbQ.CIlu4W2u1Ed-i8RFVFWnEDc5Z-s
-ODYzNzM5MjQ1ODQ2OTg2Nzgy.YOwoOw.Rh6n-dIiMSJWLzK9weq4G11223s
-NzE2OTk5NjY2Mzk0MzMzMjc1.YInWiA.BBn9CkInVR4YRFjoO140k7p1Zcc
-ODQ1MjgxNzM0ODAzNDU2MDUw.YPZF3A.v0MKZqsdItB3RMlwm3-w5YAQmIo
-NzI0MTc2NTYwNTA4MTA4ODUw.XxJlVw.oEi3QF1g0MjefU7c6MY3ZJYIAYg
-ODQ1MjgxNzM0ODAzNDU2MDUw.YNbXxg.0Jp0u6REZ6yQ22MBqT_NoUqg4I8
-MzU4OTcyMTY4ODg2OTQzNzQ1.Xr0vGw.3NytJyWTh7O66eMCRJaMDkfIxbY
-NTM1ODg0MzA5ODk1MDUzMzEz.DyOp-g._6E7IaaxhvBWGZKu3NQnDTwiAWk
-ODQ4NzU4Mzc0NDY0MjI1MzEw.YMLLNA.-Qnv7-p9jEmpAwzRMuQu_QbCwn8
-ODYzMTM2MjU0NDYzNzA1MDg4.YOigpw.io7r6oTbJ5Y-ZmvJBLTeSp70AUs
-NjY2NzY1NjM5ODkyOTkyMDQ0.YGch7Q.wIoiacwzuC1FEPh24pkFrnsE5Vk
-NDM2MDcwNjMzMjQ4NjUzMzEz.YA8l6A.ReIml3NNWaE_IukcQBaeE85qp_U
-NDU4MTgxODcwMDEwNDk5MDc0.YOtPbw.M3lS6xeQ7fK1ocPWipS_9GLpfdY
-NDcwMDYzODA5NzUxNTQ3OTM0.YPNzyg.McJVd19oUegapyTIRFokhAL6PFA
-ODU0Mjg5NjAwMzA5NDkzNzYx.YMzsOw.gCgEoeEKBeDWdxsQGEAqC9FXqg
-ODM4ODAyNjM0MDQ2NDM5NDk1.YJWMNw.WOLewnyS4YMe-5YxJQPa2b12u8
-NDk1MzYwNTgyMzc2MjI2ODE3.YOsA0Q.nh6w4es1RgWZbJf-Y92xe2VRQ30
+NjQwNjIwNDg2NDcyMjM3MDU4.Xb8eUg.5jKZmOueZBollVP-dDXNie3nw-s
